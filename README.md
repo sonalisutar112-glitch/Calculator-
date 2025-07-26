@@ -1,1 +1,1 @@
-# Calculator-
+This is a basic calculator application built using Java Swing. It performs standard arithmetic operations (Addition, Subtraction, Multiplication, Division) with a clean GUI layout. The app handles decimal input and includes clear (C) and equals (=) functionality. Ideal for beginners learning Java GUI development.
